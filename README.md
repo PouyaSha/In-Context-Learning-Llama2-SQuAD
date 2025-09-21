@@ -8,6 +8,11 @@ This repository contains a Jupyter Notebook project that conducts an in-depth an
 
 Following the principles laid out by Saparov and He, who characterized LLMs as "greedy reasoners", this project uses the Stanford Question Answering Dataset (SQuAD) as a baseline. To push the model beyond simple retrieval, three distinct adversarial datasets were constructed to create controlled, challenging scenarios. The model's performance on these tasks reveals a nuanced picture of its strengths, weaknesses, and its underlying cognitive mechanisms.
 
+You can view the notebook for this project here:
+
+[![In_Context_Learning_Llama2_SQuAD](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P2zMIP7jli6uDltvb4vZMvj9pPs93o-K?usp=sharing)
+
+
 **Environment Setup**
 ---------------------
 
